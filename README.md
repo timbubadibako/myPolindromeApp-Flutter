@@ -1,16 +1,18 @@
-# suitmedia_polindrome
+# ↔️ Flutter Palindrome Checker
 
-A new Flutter project.
+Aplikasi mobile sederhana yang dibangun dengan Flutter untuk mengecek apakah sebuah kalimat atau kata adalah palindrom (dibaca sama dari depan maupun belakang).
 
-## Getting Started
+Proyek ini awalnya dibuat sebagai bagian dari tugas teknis untuk proses seleksi magang, yang berfokus pada implementasi logika dasar dan pembuatan UI yang bersih.
 
-This project is a starting point for a Flutter application.
+## ✨ Fitur
+- Input teks yang mudah digunakan.
+- Validasi instan untuk mengecek palindrom.
+- Tampilan hasil yang jelas dan informatif.
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Teknologi yang Digunakan
+- **Framework:** Flutter
+- **Bahasa:** Dart
+- **State Management:** Provider (atau sebutkan yang Anda gunakan)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+*Sebuah latihan yang bagus untuk memperkuat dasar-dasar pengembangan mobile dengan Flutter.*
